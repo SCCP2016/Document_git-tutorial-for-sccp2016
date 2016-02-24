@@ -1,4 +1,5 @@
 # Summary
 
-* [Chapter 1](01-chapter1.md)
-* [Bibliography](99-bibliography.md)
+* [Notification](00.md)
+* [Chapter 1 - Installation](01.md)
+* [Bibliography](99.md)
