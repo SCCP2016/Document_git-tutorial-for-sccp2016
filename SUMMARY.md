@@ -4,4 +4,8 @@
 	* [Windows](./01/01_1.md)
 	* [Mac OS X](./01/01_2.md)
 	* [Linux, UNIX(on CUI)](./01/01_3.md)
+* [Details of Git](./02/02_0.md)
+	* [What](./02/02_1.md)
+	* [Purpose](./02/02_2.md)
+	* [Merits](./02/02_3.md)
 * [Bibliography](./99/99_0.md)
