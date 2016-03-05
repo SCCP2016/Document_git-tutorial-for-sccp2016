@@ -5,7 +5,7 @@
 * [Installation](./02/02_0.md)
 	* [U-AIZU](./02/02_1_0.md)
 		* [Solaris 11.3](./02/02_1_1.md)
-		* [OS X Mavericks<sub> (Darwin 13.4.0)</sub>](./02/02_1_2.md)
+		* [OS X Mavericks (Darwin 13.4.0)](./02/02_1_2.md)
 		* Red Hat Enterprise Linux (unavailable)
 	* [Windows](./02/02_2.md)
 	* [OS X](./02/02_3.md)
