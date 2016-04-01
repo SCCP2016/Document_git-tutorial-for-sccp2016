@@ -19,4 +19,5 @@
 	* [SSH Public Key Authentication](./03/)
 	* [Fork](./)
 	* [Send a Pull Request](./)
+* [Commands dictionary](./)
 * [Bibliography](./99/99_0.md)
