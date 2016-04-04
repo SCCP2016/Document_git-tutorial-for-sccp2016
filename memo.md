@@ -1,0 +1,7 @@
+### NOT just commit, but update
+
+一人でソースコードを管理する場合は、基本的にworking directoryに置いてあるファイルに変更を加えてrepositoryにcommitする事を繰り返すだけで良いのですが、複数人で管理する場合はそういうわけにもいきません。
+
+自分がcommitした後に、同じrepositoryに対して別のユーザーがcommitした場合を想定します。時系列順的にはその別のユーザーがcommitした内容が最新のソースコードとなっていますので、自分のworking directoryにあるソースコードは最新の状態ではなくなってしまいます。この場合、repositoryにある最新のcommit内容をworking directoryのソースコードに反映させるために更新 **(update)** する操作が必要となります。
+
+チームでプロジェクトのソースコードを管理する場合などは、自分が編集作業を行っていない間に別のユーザーがrepositoryにcommitしていたかどうかを毎回updateして確認するようにしましょう。
