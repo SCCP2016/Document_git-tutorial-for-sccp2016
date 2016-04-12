@@ -11,7 +11,7 @@ else
     cd git-1.9.5
     ./configure
     make
-    echo "PATH=\$PATH:/home/student/$USER/usr/bin/Git/git-1.9.5" >> ~/.zshrc
+    echo "export PATH=\$PATH:/home/student/$USER/usr/bin/Git/git-1.9.5" >> ~/.profile
 fi
 cd $HOME
-exec zsh -l
+exec $SHELL -l
