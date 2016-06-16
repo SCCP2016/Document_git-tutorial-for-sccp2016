@@ -17,4 +17,4 @@ _book
 
 # other files
 word_docs
-*.pptx
+#*.pptx
